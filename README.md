@@ -1,0 +1,1 @@
+Templates and boilerplate for several projects
